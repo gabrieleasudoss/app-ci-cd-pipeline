@@ -1,30 +1,18 @@
-# Data Structures & Algorithms
+# CI/CD Pipeline Templates
 
-Implementations of common data structures and algorithms in Python.
+Reusable CI/CD pipeline templates for GitHub Actions and Azure DevOps.
 
-## Topics
+## Features
 
-| Topic | Status | Description |
-|---|---|---|
-| [Arrays](arrays/) | 🔄 In Progress | Two pointers, sliding window, prefix sum |
-| [Sorting](sorting/) | 🔄 In Progress | Merge sort, quick sort, heap sort |
-| [Stacks](stacks/) | 🔄 In Progress | Balanced parentheses, min stack, next greater element |
-| [Queues](queues/) | 🔄 In Progress | Circular queue, priority queue |
-| [Linked Lists](linked-lists/) | 🔄 In Progress | Reversal, cycle detection, merge |
-| [Trees](trees/) | 🔄 In Progress | BST, traversals, LCA |
-| [Graphs](graphs/) | 🔄 In Progress | BFS, DFS, Dijkstra, topological sort |
-| [Dynamic Programming](dynamic-programming/) | 🔄 In Progress | Knapsack, LCS, coin change |
-| [System Design](system-design/) | 🔄 In Progress | Architecture notes and diagrams |
+- GitHub Actions workflow templates
+- Azure DevOps pipeline templates
+- Docker build & push pipelines
+- Terraform plan/apply automation
+- Security scanning (SAST, container scan)
 
-## Complexity Cheat Sheet
+## Status
 
-| Algorithm | Time (Best) | Time (Avg) | Time (Worst) | Space |
-|---|---|---|---|---|
-| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
-| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
-| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
-| Binary Search | O(1) | O(log n) | O(log n) | O(1) |
-| BFS/DFS | O(V+E) | O(V+E) | O(V+E) | O(V) |
+🚧 Under Development
 
 ## License
 
